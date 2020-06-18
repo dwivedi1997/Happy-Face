@@ -1,7 +1,7 @@
 # Happy-Face
 # Emotion Detection in Images of Faces
 To help the participants more easily track their emotions, we can develop an app that will classify their emotions based on some pictures that the volunteers will take of their facial expressions.
-As a proof-of-concept, we will first train your model to detect if someone's emotion is classified as "happy" or "not happy."
+As a proof-of-concept, we will first train our model to detect if someone's emotion is classified as "happy" or "not happy."
 To build and train this model, you have gathered pictures of some volunteers in a nearby neighborhood. The dataset is labeled.
 
 In this repositiories, we will:
